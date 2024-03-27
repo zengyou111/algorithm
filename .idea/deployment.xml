@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="zengyou (662b812f-2635-433c-acde-479e7bb390a6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.IrF9JPF2EU" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
