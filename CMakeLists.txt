@@ -87,3 +87,24 @@ add_executable(1191 problem/1191.cpp)
 add_executable(918 problem/918.cpp)
 add_executable(2580 problem/2580.cpp)
 add_executable(1024 problem/1024.cpp)
+add_executable(1997 problem/1997.cpp)
+add_executable(1557 problem/1557.cpp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
