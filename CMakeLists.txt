@@ -89,6 +89,33 @@ add_executable(2580 problem/2580.cpp)
 add_executable(1024 problem/1024.cpp)
 add_executable(1997 problem/1997.cpp)
 add_executable(1557 problem/1557.cpp)
+add_executable(1950_A codeforce/1950_A.cpp)
+add_executable(2952 problem/2952.cpp)
+add_executable(2523 problem/2523.cpp)
+add_executable(127_1 127/127_1.cpp)
+add_executable(127_2 127/127_2.cpp)
+add_executable(127_3 127/127_3.cpp)
+add_executable(127_4 127/127_4.cpp)
+add_executable(331 problem/331.cpp)
+add_executable(391_1 391/391_1.cpp)
+add_executable(391_2 391/391_2.cpp)
+add_executable(391_3 391/391_3.cpp)
+add_executable(391_4 391/391_4.cpp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
