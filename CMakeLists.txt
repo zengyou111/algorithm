@@ -101,7 +101,12 @@ add_executable(391_1 391/391_1.cpp)
 add_executable(391_2 391/391_2.cpp)
 add_executable(391_3 391/391_3.cpp)
 add_executable(391_4 391/391_4.cpp)
-
+add_executable(2411 problem/2411.cpp)
+add_executable(2849 problem/2849.cpp)
+add_executable(894 problem/894.cpp)
+add_executable(1379 problem/1379.cpp)
+add_executable(2192 problem/2192.cpp)
+add_executable(1026 problem/1026.cpp)
 
 
 
